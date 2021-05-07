@@ -1,5 +1,8 @@
 # Embedded Object Detection with the Tensorflow 1 Object Detection API using the raspi 4
 
+[![video_thumbnail](https://user-images.githubusercontent.com/42912323/117491936-35942a80-af71-11eb-86e0-9c683306a6c8.png)](https://youtu.be/eHBGWim-vzw)
+
+
 In this repo, you find a documentation and an example on how to use the 
 TF1 Object Detection API to train your own custom quantized object dtection model. 
 After the model is trained, it will be converted to a tflite model and then
